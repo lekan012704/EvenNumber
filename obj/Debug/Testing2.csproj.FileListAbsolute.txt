@@ -1,0 +1,7 @@
+C:\Users\duros\source\repos\Testing2\Testing2\bin\Debug\Testing2.exe.config
+C:\Users\duros\source\repos\Testing2\Testing2\bin\Debug\Testing2.exe
+C:\Users\duros\source\repos\Testing2\Testing2\bin\Debug\Testing2.pdb
+C:\Users\duros\source\repos\Testing2\Testing2\obj\Debug\Testing2.csproj.AssemblyReference.cache
+C:\Users\duros\source\repos\Testing2\Testing2\obj\Debug\Testing2.csproj.CoreCompileInputs.cache
+C:\Users\duros\source\repos\Testing2\Testing2\obj\Debug\Testing2.exe
+C:\Users\duros\source\repos\Testing2\Testing2\obj\Debug\Testing2.pdb
